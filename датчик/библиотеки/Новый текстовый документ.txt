@@ -1,6 +1,0 @@
-Для данного датчика существует несколько библиотек:
-
-HTU21D – библиотека от enjoyneering
-SparkFun_HTU21D_Breakout_Arduino_Library – библиотека от SparkFun
-Adafruit_HTU21DF_Library – библиотека от Adafruit
-GyverHTU21D – библиотека от alexgyver
